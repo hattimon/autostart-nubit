@@ -60,6 +60,12 @@ After a successful installation, install the autostart-nubit.sh script.
    ```bash
    sudo journalctl -u nubit.service -f
    ```
+      To view the logs of the NUBIT NODE, use:
+
+   ```bash
+   sudo cat /root/nubit-light.log
+   ```
+
 
 ## About the Script
 
