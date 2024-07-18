@@ -88,7 +88,7 @@ To remove the Nubit autostart setup and revert all changes made by the `autostar
    ```bash
    git clone https://github.com/hattimon/autostart-nubit.git
    cd autostart-nubit
-
+   ```
 
 2. **Make the Script Executable**
 
